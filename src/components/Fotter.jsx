@@ -38,9 +38,7 @@ const Fotter = () => {
                 className="flex items-center justify-center rounded-md shadow-md shadow-lightColor p-3 cursor-pointer
                hover:scale-105 duration-200 ease-in"
               >
-                <a href="#">
-                  <FaTwitter size={25} />
-                </a>
+                <FaTwitter size={25} />
               </div>
             </div>
           </div>
