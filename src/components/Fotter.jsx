@@ -14,25 +14,36 @@ const Fotter = () => {
                 className="flex items-center justify-center rounded-md shadow-md shadow-lightColor p-3 cursor-pointer
                hover:scale-105 duration-200 ease-in"
               >
-                <FaFacebook size={25} />
+                <a href="https://www.facebook.com/ali.pourhassan.90/">
+                  <FaFacebook size={25} />
+                </a>
               </div>
               <div
                 className="flex items-center justify-center rounded-md shadow-md shadow-lightColor p-3 cursor-pointer
                hover:scale-105 duration-200 ease-in"
               >
-                <FaInstagram size={25} />
+                <a
+                  target="_blank"
+                  href="https://www.instagram.com/ali_samsun2021/"
+                >
+                  <FaInstagram size={25} />
+                </a>
               </div>
               <div
                 className="flex items-center justify-center rounded-md shadow-md shadow-lightColor p-3 cursor-pointer
                hover:scale-105 duration-200 ease-in"
               >
-                <FaLinkedin size={25} />
+                <a href="https://www.linkedin.com/in/ali-pourhassan-875891222/">
+                  <FaLinkedin size={25} />
+                </a>
               </div>
               <div
                 className="flex items-center justify-center rounded-md shadow-md shadow-lightColor p-3 cursor-pointer
                hover:scale-105 duration-200 ease-in"
               >
-                <FaTwitter size={25} />
+                <a href="">
+                  <FaTwitter size={25} />
+                </a>
               </div>
             </div>
           </div>
@@ -46,7 +57,7 @@ const Fotter = () => {
                 Subscrible to our newsletter
               </p>
               <form
-                action="https://www.smartsurvey.co.uk/s/3RZJEU/"
+                action="#"
                 method="POST"
                 className="flex flex-col sm:flex-row"
               >
