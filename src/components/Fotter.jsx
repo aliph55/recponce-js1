@@ -22,10 +22,7 @@ const Fotter = () => {
                 className="flex items-center justify-center rounded-md shadow-md shadow-lightColor p-3 cursor-pointer
                hover:scale-105 duration-200 ease-in"
               >
-                <a
-                  target="_blank"
-                  href="https://www.instagram.com/ali_samsun2021/"
-                >
+                <a href="https://www.instagram.com/ali_samsun2021/">
                   <FaInstagram size={25} />
                 </a>
               </div>
